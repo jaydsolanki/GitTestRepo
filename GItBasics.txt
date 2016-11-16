@@ -1,0 +1,24 @@
+Code
+	- Backup
+	- Track Changes you have made
+	- Cloud Storage
+
+Git because Github one of the biggest open source
+
+Github - website for cloud storage of git repository.
+
+Git - tool used for above 3 things
+
+GIt - GUI and Terminal
+
+
+git init THat directory becomes a repo
+
+Stage
+git add
+
+Commit
+git commit -m "Message"
+
+Push
+git push
