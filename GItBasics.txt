@@ -22,3 +22,5 @@ git commit -m "Message"
 
 Push
 git push
+
+I made some changes
